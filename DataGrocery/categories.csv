@@ -1,12 +1,3 @@
-CategoryID,CategoryName
-1,Confections
-2,Shell fish
-3,Cereals
-4,Dairy
-5,Beverages
-6,Seafood
-7,Meat
-8,Grain
-9,Poultry
-10,Snails
-11,Produce
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b8af24501a46bb56efcf0e236d16a668dd3a67f3e02560d2d2bfd0d48a1396
+size 137
