@@ -40,3 +40,6 @@ This group project analyzes grocery sales data to answer business questions rela
 *Michael's Code*: Analyzes repeat customers and identifies the region with the most repeat customers.
 *Alexander's Code*: Identifies the best-selling food and non-food products by region.
 *Eduardo's Code*: Analyzes customer volume by hour and compares weekdays vs. weekends.
+
+
+*Link to Google Drive Prsentation.* https://docs.google.com/presentation/d/1_2Qfso_jVNy7R8buFyMT6-3biaUYAByVZLaN6eJx6Qg/edit?usp=sharing
